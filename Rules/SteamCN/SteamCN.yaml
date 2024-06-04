@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 5
 # TOTAL: 17
 payload:
-  - DOMAIN,api.steampowered.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
@@ -19,6 +18,7 @@ payload:
   - DOMAIN,steamstatic.com.8686c.com
   - DOMAIN,wmsjsteam.com
   - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
