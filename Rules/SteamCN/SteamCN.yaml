@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 5
 # TOTAL: 17
 payload:
+  - DOMAIN,api.steampowered.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
