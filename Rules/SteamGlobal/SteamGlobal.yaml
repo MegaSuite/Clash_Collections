@@ -7,31 +7,21 @@
 # DOMAIN-SUFFIX: 33
 # TOTAL: 40
 payload:
-  - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN,steammobile.akamaized.net
-  - DOMAIN,steampipe-kr.akamaized.net
-  - DOMAIN,steampipe-partner.akamaized.net
-  - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+  - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steam.apac.qtlglb.com
-  - DOMAIN-SUFFIX,steam.cdn.on.net
-  - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
-  - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
-  - DOMAIN-SUFFIX,steam.cdn.webra.ru
-  - DOMAIN-SUFFIX,steam.eca.qtlglb.com
-  - DOMAIN-SUFFIX,steam.naeu.qtlglb.com
-  - DOMAIN-SUFFIX,steam.ru.qtlglb.com
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
-  - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampipe.akamaized.net
   - DOMAIN-SUFFIX,steampowered.com
