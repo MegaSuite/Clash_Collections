@@ -1,0 +1,14 @@
+- id: ID_1fur3em7
+  name: update everyday
+  type: update::subscription
+  subscriptions:
+    - ID_cnlvbjeo
+    - ID_0v09yz2t
+    - ID_h5m0zld2
+  rulesets: []
+  plugins: []
+  script: ""
+  cron: 0 0 9/16 * * ?
+  notification: true
+  disabled: false
+  lastTime: 2024/6/4 09:00:00

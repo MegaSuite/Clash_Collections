@@ -5,6 +5,7 @@
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 5
 # TOTAL: 17
+
 payload:
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com

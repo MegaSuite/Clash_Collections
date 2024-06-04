@@ -1,0 +1,57 @@
+- id: plugin-uwp-loopback-exempt
+  name: 解除UWP应用本地回环限制
+  description: 解除Window的UWP应用本地回环限制，解除后UWP应用将支持系统代理。
+  type: Http
+  url: https://raw.githubusercontent.com/GUI-for-Cores/Plugin-Hub/main/plugins/Generic/plugin-uwp-loopback-exempt.js
+  path: data/plugins/plugin-uwp-loopback-exempt.js
+  triggers:
+    - on::manual
+  menus: {}
+  status: 0
+  configuration: []
+  disabled: false
+  install: false
+  installed: false
+- id: plugin-ip-geolocation
+  name: IP 信息查询
+  description: "快速查询当前 IP 信息。Supported by: QiChaiQiChai"
+  type: Http
+  url: https://raw.githubusercontent.com/GUI-for-Cores/Plugin-Hub/main/plugins/Generic/plugin-ip-geolocation.js
+  path: data/plugins/plugin-ip-geolocation.js
+  triggers:
+    - on::manual
+  menus: {}
+  status: 0
+  configuration: []
+  disabled: false
+  install: false
+  installed: false
+- id: plugin-speedtest
+  name: SpeedTest 速度测试
+  description: "测试当前节点延迟和下行速度。Supported by: QiChaiQiChai"
+  type: Http
+  url: https://raw.githubusercontent.com/GUI-for-Cores/Plugin-Hub/main/plugins/Generic/plugin-speedtest.js
+  path: data/plugins/plugin-speedtest.js
+  triggers:
+    - on::manual
+  menus: {}
+  status: 0
+  configuration:
+    - id: ID_112j2shp
+      title: 测速文件大小？
+      description: 请选择下行速度测试文件大小
+      key: testFileSize
+      component: Select
+      value: "10"
+      options:
+        - 5MB,5
+        - 10MB,10
+        - 20MB,20
+        - 40MB,40
+        - 100MB,100
+        - 200MB,200
+        - 0.5GB,512
+        - 1GB,1024
+  disabled: false
+  install: false
+  installed: false

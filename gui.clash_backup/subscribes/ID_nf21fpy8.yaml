@@ -1,0 +1,399 @@
+proxies:
+  - name: Dukou|[INFO]剩余流量:41.14GB
+    type: ss
+    server: dukou.dev
+    port: 1080
+    cipher: chacha20-ietf
+    password: "12345"
+    udp: true
+  - name: Dukou|[INFO]到期:2025-02-12 00:08:03
+    type: ss
+    server: dukou.dev
+    port: 1080
+    cipher: chacha20-ietf
+    password: "12345"
+    udp: true
+  - name: Dukou|新加坡 01
+    type: trojan
+    server: sgp-01-16A0E.pigsmightfly.pro
+    port: "9301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-1-546.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 02
+    type: trojan
+    server: sgp-02-AF180.pigsmightfly.pro
+    port: "9302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-2-547.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 03
+    type: trojan
+    server: sgp-03-D911F.pigsmightfly.pro
+    port: "9303"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-3-548.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 04
+    type: trojan
+    server: sgp-04-A48BF.pigsmightfly.pro
+    port: "9304"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-4-549.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 05
+    type: trojan
+    server: sgp-05-2FD8F.pigsmightfly.pro
+    port: "9305"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-5-550.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 06
+    type: trojan
+    server: sgp-06-7C2F8.pigsmightfly.pro
+    port: "9306"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-6-551.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 07
+    type: trojan
+    server: sgp-07-55B8B.pigsmightfly.pro
+    port: "9307"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-7-552.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|新加坡 08
+    type: trojan
+    server: sgp-08-C8FA9.pigsmightfly.pro
+    port: "9308"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: sgp-8-553.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 01
+    type: trojan
+    server: shanghai-router1-892412-jp1.pigsmightfly.pro
+    port: "6301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-1-554.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 02
+    type: trojan
+    server: shanghai-router1-892412-jp2.pigsmightfly.pro
+    port: "6302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-2-555.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 03
+    type: trojan
+    server: shanghai-router1-892412-jp3.pigsmightfly.pro
+    port: "6303"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-3-556.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 04
+    type: trojan
+    server: shanghai-router1-892412-jp4.pigsmightfly.pro
+    port: "6304"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-4-557.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 05
+    type: trojan
+    server: shanghai-router1-892412-jp5.pigsmightfly.pro
+    port: "6305"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-5-558.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|日本 06
+    type: trojan
+    server: shanghai-router1-892412-jp6.pigsmightfly.pro
+    port: "6306"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: jp-6-559.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 01
+    type: trojan
+    server: us-cn-hk-relay-1-3bdb3b.pigsmightfly.pro
+    port: "7301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-1-570.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 02
+    type: trojan
+    server: us-cn-hk-relay-2-3cc426.pigsmightfly.pro
+    port: "7302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-2-571.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 03
+    type: trojan
+    server: us-cn-hk-relay-3-49ae82.pigsmightfly.pro
+    port: "7303"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-3-572.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 04
+    type: trojan
+    server: us-cn-hk-relay-4-bd5e54.pigsmightfly.pro
+    port: "7304"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-4-573.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 05
+    type: trojan
+    server: hk-route-12369-us5.pigsmightfly.pro
+    port: "7305"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-vultr-5.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 06
+    type: trojan
+    server: us-06-bd5e54.pigsmightfly.pro
+    port: "7306"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-06-648.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 07
+    type: trojan
+    server: us-07-ba7ec4.pigsmightfly.pro
+    port: "7307"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-07-649.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|美国 08
+    type: trojan
+    server: us-08-cz2dg2.pigsmightfly.pro
+    port: "7308"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: us-08-650.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|韩国 01
+    type: trojan
+    server: kr-cn-relay-1-452x4.pigsmightfly.pro
+    port: "3301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: kr-1-574.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|韩国 02
+    type: trojan
+    server: kr-cn-relay-2-32v22.pigsmightfly.pro
+    port: "3302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: kr-2-575.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 01
+    type: trojan
+    server: hk-01-23E36.pigsmightfly.pro
+    port: "8301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-1-560.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 02
+    type: trojan
+    server: hk-02-90903.pigsmightfly.pro
+    port: "8302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-2-561.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 03
+    type: trojan
+    server: hk-03-0478A.pigsmightfly.pro
+    port: "8303"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-3-562.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 04
+    type: trojan
+    server: hk-04-13FED.pigsmightfly.pro
+    port: "8304"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk04-01-azure-24567.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 05
+    type: trojan
+    server: hk-05-95219.pigsmightfly.pro
+    port: "8305"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk04-azure-uihn01.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 06
+    type: trojan
+    server: hk-06-6DA0C.pigsmightfly.pro
+    port: "8306"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-6-563.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 07
+    type: trojan
+    server: hk-07-20CC5.pigsmightfly.pro
+    port: "8307"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-7-564.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 08
+    type: trojan
+    server: hk-08-0C504.pigsmightfly.pro
+    port: "8308"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-8-565.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 09
+    type: trojan
+    server: hk-09-A72E3.pigsmightfly.pro
+    port: "8309"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-9-566.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 10
+    type: trojan
+    server: hk-10-6D33F.pigsmightfly.pro
+    port: "8310"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-10-567.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 11
+    type: trojan
+    server: hk-11-5A87A.pigsmightfly.pro
+    port: "8011"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-11-497.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 12
+    type: trojan
+    server: hk-12-1453C.pigsmightfly.pro
+    port: "8012"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-12-498.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 13
+    type: trojan
+    server: hk-13-4739E.pigsmightfly.pro
+    port: "8313"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-13-568.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|香港 14
+    type: trojan
+    server: hk-14-F85D1.pigsmightfly.pro
+    port: "8314"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: hk-14-569.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 01
+    type: trojan
+    server: tw-01-AEDE1.pigsmightfly.pro
+    port: "5301"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-1-544.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 02
+    type: trojan
+    server: tw-02-DF8D4.pigsmightfly.pro
+    port: "5302"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-2-545.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 03
+    type: trojan
+    server: tw-03-07F1B.pigsmightfly.pro
+    port: "5303"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-03-505.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 04
+    type: trojan
+    server: tw-04-D2B9E.pigsmightfly.pro
+    port: "5304"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-04-590.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 05
+    type: trojan
+    server: tw-05-896F5.pigsmightfly.pro
+    port: "5305"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-05-591.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 06
+    type: trojan
+    server: tw-06-47789.pigsmightfly.pro
+    port: "5306"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-06-592.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|台湾 07
+    type: trojan
+    server: tw-07-7F287.pigsmightfly.pro
+    port: "5307"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tw-07-593.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|土耳其^ 01
+    type: trojan
+    server: tr-01-k2h6x.pigsmightfly.pro
+    port: "42101"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tr-01-646.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|土耳其^ 02
+    type: trojan
+    server: tr-02-jyg9h.pigsmightfly.pro
+    port: "42102"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: tr-02-647.duuk.info
+    skip-cert-verify: true
+    udp: true
+  - name: Dukou|澳洲^ 01
+    type: trojan
+    server: au-01-gh3fg1.pigsmightfly.pro
+    port: "42103"
+    password: ca332cb2-1fe6-57ed-bd2a-af69788a6cd4
+    sni: au-01-651.duuk.info
+    skip-cert-verify: true
+    udp: true

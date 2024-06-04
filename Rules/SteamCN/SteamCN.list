@@ -1,36 +1,10 @@
 # NAME: SteamCN
 # AUTHOR: Konrad
-# REPO: https://github.com/MegaSuite/filter_rulebase
-# UPDATED: 2024年1月8日22:51
+# REPO: https://github.com/MegaSuite/Clash_Collections/Rules
+# UPDATED: 2024年6月4日21:58
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 5
 # TOTAL: 17
-
-DOMAIN,*.cm.steampowered.com
-DOMAIN,*.steamserver.net
-IP-CIDR,45.121.184.0/24
-IP-CIDR,103.10.124.0/23
-IP-CIDR,103.28.54.0/24
-IP-CIDR,146.66.152.0/24
-IP-CIDR,146.66.155.0/24
-IP-CIDR,153.254.86.0/24
-IP-CIDR,155.133.224.0/22
-IP-CIDR,155.133.230.0/24
-IP-CIDR,155.133.232.0/23
-IP-CIDR,155.133.234.0/24
-IP-CIDR,155.133.236.0/22
-IP-CIDR,155.133.240.0/23
-IP-CIDR,155.133.244.0/23
-IP-CIDR,155.133.246.0/24
-IP-CIDR,155.133.248.0/21
-IP-CIDR,162.254.192.0/21
-IP-CIDR,185.25.182.0/23
-IP-CIDR,190.217.32.0/22
-IP-CIDR,192.69.96.0/22
-IP-CIDR,205.196.6.0/24
-IP-CIDR,208.64.200.0/22
-IP-CIDR,208.78.164.0/22
-IP-CIDR,205.185.194.0/24
 
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
@@ -44,6 +18,8 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net

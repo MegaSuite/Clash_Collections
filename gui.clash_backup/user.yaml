@@ -1,0 +1,66 @@
+lang: en
+theme: auto
+color: default
+font-family: system-ui, "Microsoft YaHei UI", "Source Han Sans CN", "Twemoji
+  Mozilla", sans-serif
+profilesView: grid
+subscribesView: grid
+rulesetsView: grid
+pluginsView: grid
+scheduledtasksView: grid
+windowStartState: 2
+width: 907
+height: 670
+exitOnClose: false
+closeKernelOnExit: true
+autoSetSystemProxy: true
+autoStartKernel: true
+userAgent: GUI.for.Clash/v1.7.4
+startupDelay: 30
+connections:
+  visibility:
+    metadata.inboundName: true
+    metadata.type: true
+    metadata.process: false
+    metadata.processPath: false
+    metadata.host: true
+    metadata.sniffHost: false
+    metadata.sourceIP: false
+    metadata.remoteDestination: false
+    rule: true
+    chains: true
+    up: true
+    down: true
+    upload: true
+    download: true
+    start: true
+  order:
+    - metadata.inboundName
+    - metadata.type
+    - metadata.process
+    - metadata.processPath
+    - metadata.host
+    - metadata.sniffHost
+    - metadata.sourceIP
+    - metadata.remoteDestination
+    - rule
+    - chains
+    - up
+    - down
+    - upload
+    - download
+    - start
+kernel:
+  branch: main
+  profile: ID_851nttny
+  pid: 25176
+  running: true
+  autoClose: true
+  unAvailable: true
+  cardMode: true
+  sortByDelay: true
+  testUrl: https://www.gstatic.com/generate_204
+addPluginToMenu: false
+pluginSettings: {}
+githubApiToken: ""
+multipleInstance: false

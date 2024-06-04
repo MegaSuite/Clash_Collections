@@ -1,0 +1,176 @@
+- id: ID_ukaw8n0u
+  name: YouTube
+  updateTime: 2024/6/4 21:07:26
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
+  interval: 86400
+  count: 183
+  path: data/rulesets/ID_66v4cu81.yaml
+  disabled: false
+- id: ID_ktwgz48n
+  name: Microsoft
+  updateTime: 2024/6/4 21:07:27
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
+  interval: 86400
+  count: 669
+  path: data/rulesets/ID_0i2r3wyp.yaml
+  disabled: false
+- id: ID_6d35t61m
+  name: OpenAI
+  updateTime: 2024/6/4 21:07:27
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml
+  interval: 86400
+  count: 27
+  path: data/rulesets/ID_q5z2trqg.yaml
+  disabled: false
+- id: ID_sia4kqr8
+  name: PrimeVideo
+  updateTime: 2024/6/4 21:07:28
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml
+  interval: 86400
+  count: 25
+  path: data/rulesets/ID_ggfaqty9.yaml
+  disabled: false
+- id: ID_e4030zhy
+  name: Disney
+  updateTime: 2024/6/4 21:07:28
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.yaml
+  interval: 86400
+  count: 173
+  path: data/rulesets/ID_ked2ps2b.yaml
+  disabled: false
+- id: ID_9w32oygq
+  name: Netflix
+  updateTime: 2024/6/4 21:07:29
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml
+  interval: 86400
+  count: 38
+  path: data/rulesets/ID_c2blolsp.yaml
+  disabled: false
+- id: ID_gn683vfj
+  name: Apple
+  updateTime: 2024/6/4 21:07:29
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml
+  interval: 86400
+  count: 30
+  path: data/rulesets/ID_12ioqdg6.yaml
+  disabled: false
+- id: ID_xld943hw
+  name: GlobalStreaming
+  updateTime: 2024/6/4 21:07:30
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/GlobalStreaming.yaml
+  interval: 86400
+  count: 212
+  path: data/rulesets/ID_3p00hb90.yaml
+  disabled: false
+- id: ID_d0nqc0g6
+  name: Claude
+  updateTime: 2024/6/4 21:07:31
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml
+  interval: 86400
+  count: 3
+  path: data/rulesets/ID_05874k1g.yaml
+  disabled: false
+- id: ID_wudduhv4
+  name: Gemini
+  updateTime: 2024/6/4 21:07:32
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml
+  interval: 86400
+  count: 13
+  path: data/rulesets/ID_3r1hzei4.yaml
+  disabled: false
+- id: ID_b9x6i78v
+  name: Steam
+  updateTime: 2024/6/4 21:38:08
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/SteamGlobal/SteamGlobal.yaml
+  interval: 86400
+  count: 30
+  path: data/rulesets/ID_h1kwx9ev.yaml
+  disabled: false
+- id: ID_ocxk7t0k
+  name: SteamCN
+  updateTime: 2024/6/4 21:38:46
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/SteamCN/SteamCN.yaml
+  interval: 86400
+  count: 18
+  path: data/rulesets/ID_xmp7nlnq.yaml
+  disabled: false
+- id: ID_33qu7gmr
+  name: GlobalSites
+  updateTime: 2024/6/4 21:07:34
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/GlobalSites.yaml
+  interval: 86400
+  count: 429
+  path: data/rulesets/ID_cnndyorq.yaml
+  disabled: false
+- id: ID_tih8pahn
+  name: Epic
+  updateTime: 2024/6/4 21:07:34
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.yaml
+  interval: 86400
+  count: 16
+  path: data/rulesets/ID_jbmjgtvq.yaml
+  disabled: false
+- id: ID_id57stzu
+  name: ChinaSites
+  updateTime: 2024/6/4 21:07:35
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/ChinaSites.yaml
+  interval: 86400
+  count: 94
+  path: data/rulesets/ID_xihbqjuw.yaml
+  disabled: false
+- id: ID_prpffcdw
+  name: ChinaIP
+  updateTime: 2024/6/4 21:07:36
+  behavior: classical
+  type: Http
+  format: yaml
+  url: https://raw.githubusercontent.com/MegaSuite/Clash_Collections/main/Rules/ChinaIP.yaml
+  interval: 86400
+  count: 6126
+  path: data/rulesets/ID_u4nfz6ry.yaml
+  disabled: false
