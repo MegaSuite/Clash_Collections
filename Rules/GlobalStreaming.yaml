@@ -1,8 +1,8 @@
-#----------
-#Apply default PROXY policy
-#Source: 
-#https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.yaml
-#----------
+# ----------
+# Apply default PROXY policy
+# Source: 
+# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.yaml
+# ----------
 
 
 # Streaming Media
@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de
-  - 
   # (Music)
   # > Deezer
   - USER-AGENT,Deezer*
@@ -41,7 +40,6 @@ payload:
   # > TIDAL
   - USER-AGENT,TIDAL*
   - DOMAIN-SUFFIX,tidal.com
-  - 
   # (Podcast)
   # > Himalaya
   - USER-AGENT,Himalaya*
@@ -49,7 +47,6 @@ payload:
   # > Overcast
   - USER-AGENT,Overcast*
   - DOMAIN-SUFFIX,overcast.fm
-  - 
   # (Video)
   # > AbemaTV
   - USER-AGENT,AbemaTV*
