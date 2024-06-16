@@ -428,6 +428,7 @@ payload:
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,twitpic.com
     - DOMAIN-SUFFIX,twitter.com
+    - DOMAIN-SUFFIX,x.com
     - DOMAIN-SUFFIX,twitter.jp
     - DOMAIN-SUFFIX,vine.co
     # > Wikimedia Foundation
