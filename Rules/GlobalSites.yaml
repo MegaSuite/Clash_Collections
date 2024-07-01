@@ -44,6 +44,7 @@ payload:
     - DOMAIN-SUFFIX,disconnect.me
     - DOMAIN-SUFFIX,disqus.com
     - DOMAIN-SUFFIX,dlive.tv
+    - DOMAIN-SUFFIX,docker.com
     - DOMAIN-SUFFIX,dowjones.com
     - DOMAIN-SUFFIX,duckduckgo.com
     - DOMAIN-SUFFIX,earthcam.com
