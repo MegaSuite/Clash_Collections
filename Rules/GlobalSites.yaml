@@ -108,6 +108,7 @@ payload:
     - DOMAIN-SUFFIX,issuu.com
     - DOMAIN-SUFFIX,istockphoto.com
     - DOMAIN-SUFFIX,justpaste.it
+    - DOMAIN-SUFFIX,justwatch.com
     - DOMAIN-SUFFIX,kakao.com
     - DOMAIN-SUFFIX,kobo.com
     - DOMAIN-SUFFIX,listennotes.com
