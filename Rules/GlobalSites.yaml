@@ -149,6 +149,7 @@ payload:
     - DOMAIN-SUFFIX,quora.com
     - DOMAIN-SUFFIX,quoracdn.net
     - DOMAIN-SUFFIX,qz.com
+    - DOMAIN-SUFFIX,rapidapi.com
     - DOMAIN-SUFFIX,radioline.co
     - DOMAIN-SUFFIX,reabble.com
     - DOMAIN-SUFFIX,redditlist.com
