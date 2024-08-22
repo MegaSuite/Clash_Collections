@@ -112,6 +112,7 @@ payload:
     - DOMAIN-SUFFIX,justwatch.com
     - DOMAIN-SUFFIX,kakao.com
     - DOMAIN-SUFFIX,kobo.com
+    - DOMAIN-SUFFIX,limetorrents.lol
     - DOMAIN-SUFFIX,listennotes.com
     - DOMAIN-SUFFIX,livestream.com
     - DOMAIN-SUFFIX,mailchimp.com
