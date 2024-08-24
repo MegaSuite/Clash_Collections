@@ -472,3 +472,4 @@ payload:
     - DOMAIN-SUFFIX,go.dev
     - DOMAIN-SUFFIX,golang.org
 
+    - DOMAIN-KEYWORD,0uu0
