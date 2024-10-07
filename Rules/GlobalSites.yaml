@@ -473,3 +473,4 @@ payload:
     - DOMAIN-SUFFIX,golang.org
 
     - DOMAIN-KEYWORD,0uu0
+    - DOMAIN-KEYWORD,nyaa
