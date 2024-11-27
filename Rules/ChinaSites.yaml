@@ -118,7 +118,8 @@ payload:
   - DOMAIN-SUFFIX,ai.xiaomi.com
   - DOMAIN-SUFFIX,music.xiaomi.com
   - DOMAIN-SUFFIX,dmhmusic.com
-  - DOMAIN-SUFFIX,ubi.com
-  - DOMAIN-SUFFIX,ubisoft.com
-  
+
+  # > Ubisoft
+  - PROCESS-NAME,UplayWebCore.exe
+  - PROCESS-NAME,upc.exe
   - GEOIP,CN
