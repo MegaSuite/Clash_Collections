@@ -1,0 +1,7 @@
+#------
+# Adblock for clash series
+#------
+
+payload:
+  - DOMAIN-SUFFIX,szbdyd.com,REJECT
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
