@@ -122,4 +122,9 @@ payload:
   # > Ubisoft
   - PROCESS-NAME,UplayWebCore.exe
   - PROCESS-NAME,upc.exe
+
+  # > Akamai
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,akamaized.net
+
   - GEOIP,CN
