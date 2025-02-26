@@ -6,7 +6,8 @@
 
 payload:
   #Campus Router
-  - IP-CIDR,172.18.18.60/32
+  - IP-CIDR,172.18.18.60/24
+  - IP-CIDR,172.18.18.61/24
 
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
