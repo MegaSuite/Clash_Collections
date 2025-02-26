@@ -5,9 +5,12 @@
 #----------
 
 payload:
-  #Campus Router
+  # Campus Router
   - IP-CIDR,172.18.18.60/24
   - IP-CIDR,172.18.18.61/24
+
+  # LOCAL HOST
+  - IP-CIDR,192.168.0.0/16
 
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
