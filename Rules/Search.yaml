@@ -3,8 +3,10 @@
 # ==============
 
 payload:
+  # Google
   - DOMAIN-KEYWORD,www.google.,PROXY
 
+  # Bing
   - DOMAIN-SUFFIX,bing.com,PROXY
   - DOMAIN-SUFFIX,bing.com.cn,PROXY
   - DOMAIN-SUFFIX,bing.net,PROXY
@@ -15,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,bingvisualsearch.com,PROXY
   - DOMAIN-SUFFIX,bingworld.com,PROXY
 
+  # Yandex
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
   - DOMAIN-SUFFIX,ya.ru,PROXY
   - DOMAIN-SUFFIX,yadi.sk,PROXY
@@ -67,3 +70,9 @@ payload:
   - IP-CIDR,95.108.128.0/17,PROXY
   - IP6-CIDR,2620:10f:d000::/44,PROXY
   - IP6-CIDR,2a02:6b8::/29,PROXY
+
+  # Microsoft Edge
+  - DOMAIN,edge.activity.windows.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN,iecvlist.microsoft.com
+  - DOMAIN,msedge.api.cdp.microsoft.com
