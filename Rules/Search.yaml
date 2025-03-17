@@ -76,3 +76,6 @@ payload:
   - DOMAIN,edge.microsoft.com
   - DOMAIN,iecvlist.microsoft.com
   - DOMAIN,msedge.api.cdp.microsoft.com
+
+  # nodeseek
+  - DOMAIN-KEYWORD,nodeseek
