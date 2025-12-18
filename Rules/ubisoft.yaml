@@ -1,0 +1,11 @@
+payload:
+  - PROCESS-NAME,UbisoftConnect.exe,DIRECT
+  - PROCESS-NAME,UbisoftExtension.exe,DIRECT
+  - PROCESS-NAME,UbisoftGameLauncher.exe,DIRECT
+  - PROCESS-NAME,UbisoftGameLauncher64.exe,DIRECT
+  # - PROCESS-NAME,Uninstall.exe,DIRECT
+  - PROCESS-NAME,upc.exe,DIRECT
+  - PROCESS-NAME,UpcElevationService.exe,DIRECT
+  - PROCESS-NAME,UplayCrashReporter.exe,DIRECT
+  - PROCESS-NAME,UplayService.exe,DIRECT
+  - PROCESS-NAME,UplayWebCore.exe,DIRECT
