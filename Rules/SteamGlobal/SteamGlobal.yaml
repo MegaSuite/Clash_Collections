@@ -38,3 +38,5 @@ payload:
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
+  # cart list
+  - IP-CIDR,23.41.77.123/24
