@@ -1,0 +1,11 @@
+# NAME: SteamGlobal
+# AUTHOR: Konrad
+# REPO: https://github.com/MegaSuite/filter_rulebase
+# UPDATED: 2024年1月8日22:36
+# DOMAIN: 4
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 33
+# TOTAL: 40
+
+payload:
+  - PROCESS-NAME,steamwebhelper.exe
