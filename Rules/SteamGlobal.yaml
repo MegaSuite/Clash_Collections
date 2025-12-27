@@ -9,3 +9,4 @@
 
 payload:
   - PROCESS-NAME,steamwebhelper.exe
+  - DOMAIN-SUFFIX,steamcommunity.com
