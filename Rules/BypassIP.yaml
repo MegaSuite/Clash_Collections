@@ -12,4 +12,6 @@ payload:
   - DST-PORT,22
   # CHINA IP
   - GEOIP,CN
+  # Jellyfin
+  - DOMAIN,jellyfin.fooa.de
 
