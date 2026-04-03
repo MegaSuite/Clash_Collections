@@ -1,0 +1,6 @@
+payload:
+  # nodeseek
+  - DOMAIN-KEYWORD,nodeseek
+
+  # Linux Do
+  - DOMAIN-SUFFIX,linux.do

@@ -1,11 +1,3 @@
-# NAME: SteamCN
-# AUTHOR: Konrad
-# REPO: https://github.com/MegaSuite/filter_rulebase
-# UPDATED: 2024年1月8日22:51
-# DOMAIN: 12
-# DOMAIN-SUFFIX: 5
-# TOTAL: 17
-
 payload:
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
@@ -14,7 +6,7 @@ payload:
   - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,st.dl.pinyuncloud.com
-  - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,steamcontent.tnkjmec.com
   - DOMAIN,steampowered.com.8686c.com
   - DOMAIN,steamstatic.com.8686c.com
   - DOMAIN,wmsjsteam.com
