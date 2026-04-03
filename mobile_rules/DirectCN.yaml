@@ -1,0 +1,6 @@
+payload:
+  # UBISOFT
+  - GEOSITE,ubisoft
+  # CHINA
+  - GEOSITE,CN
+  - GEOIP,CN

@@ -1,20 +1,16 @@
 payload:
   # GOOGLE
-  - GEOIP,google
   - GEOSITE,google
   - GEOSITE,google-cn
   - GEOSITE,google-play
   - GEOSITE,google-registry
   - GEOSITE,google-scholar
   - GEOSITE,google-trust-services
+  - GEOSITE,googlefcm
+  - GEOIP,google
   # BING
   - GEOSITE,bing
-  # YANDEX
-  - GEOSITE,yandex
   # DUCKDUCKGO
   - GEOSITE,duckduckgo
-  # MICROSOFT EDGE
-  - DOMAIN,edge.activity.windows.com
-  - DOMAIN,edge.microsoft.com
-  - DOMAIN,iecvlist.microsoft.com
-  - DOMAIN,msedge.api.cdp.microsoft.com
+  # YANDEX
+  - GEOSITE,yandex

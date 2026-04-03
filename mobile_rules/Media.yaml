@@ -1,0 +1,9 @@
+payload:
+  # YOUTUBE
+  - GEOSITE,youtube
+  # NETFLIX
+  - GEOSITE,netflix
+  # DISNEY+
+  - GEOSITE,disney
+  # PRIME VIDEO
+  - GEOSITE,primevideo

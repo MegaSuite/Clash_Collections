@@ -1,0 +1,7 @@
+payload:
+  # STEAM
+  - GEOSITE,steam
+  # EPIC GAMES
+  - GEOSITE,epicgames
+  # GOG
+  - GEOSITE,gog

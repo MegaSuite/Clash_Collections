@@ -1,4 +1,8 @@
 payload:
+  # TWITTER
+  - GEOSITE,twitter
+  - GEOIP,twitter
+  - GEOSITE,x
   # NODESEEK
   - DOMAIN-KEYWORD,nodeseek
   # LINUX DO
