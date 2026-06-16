@@ -4,3 +4,5 @@ payload:
   # CHINA
   - GEOSITE,CN
   - GEOIP,CN
+  # Jellyfin
+  - DOMAIN,jellyfin.fooa.de
